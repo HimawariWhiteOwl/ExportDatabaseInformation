@@ -1,0 +1,7 @@
+{
+  "test" : "test",
+  "ServerConfig" : {
+    "DevEnv" : "mysql+pymysql://user:password@DB-Ip-Or-Domain/DBName?charset=utf8mb4",
+    "ProdEnv" : "ConnecttionString"
+  }
+}
